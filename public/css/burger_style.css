@@ -1,0 +1,38 @@
+body{
+    background-color: #eee;
+    background-image: url(../assets/images/hamburgerbg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.page-content{
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+
+.headImage{
+    width: 30%;
+}
+
+.topHeader{
+    background-color: #f8fe40;
+background-image: linear-gradient(164deg, #f8fe40 0%, #a3fa70 100%);
+
+}
+
+.search{
+    background: #fff;
+    padding: 5px;
+    margin: 10px 0;
+    margin-top: 15px;
+    padding-top: 25px;
+}
+
+.burger-item{
+    border-radius: 10px;
+}
+
+.burger-item h3{
+    font-size: 19px;
+    margin-left: 10px;
+}
