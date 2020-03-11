@@ -13,7 +13,7 @@ let burger = {
         });
     },
     update: function(objcolVals, condition, cb){
-        orm.update("burgers", condition, function(res){
+        orm.update("burgers",objcolVals, condition, function(res){
             cb(res);
         });
     }

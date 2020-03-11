@@ -1,6 +1,6 @@
 body{
-    background-color: #eee;
-    background-image: url(../assets/images/hamburgerbg.png);
+    background-color: rgb(241, 240, 237);
+    background-image: url(../images/hamburgerbg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -8,6 +8,7 @@ body{
 }
 
 .page-content{
+    
     box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
 }
 
@@ -31,10 +32,20 @@ body{
 }
 
 .burger-item{
+    width: 100%;
     border-radius: 10px;
 }
 
 .burger-item h3{
     font-size: 19px;
     margin-left: 10px;
+}
+.item-box{
+   
+    min-height: 500px;
+}
+
+#listBurgers{
+    width: 100%;
+
 }
