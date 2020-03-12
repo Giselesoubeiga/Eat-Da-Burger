@@ -26,5 +26,5 @@ This application makes use of the following technologies:
 
 # Demo
 
-![GitHub Logo](public/assets/img/burgerdemo.gif)
+![GitHub Logo](public/assets/images/burgerdemo.gif)
 
