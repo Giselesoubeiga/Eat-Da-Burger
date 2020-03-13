@@ -26,5 +26,8 @@ This application makes use of the following technologies:
 
 # Demo
 
+Deploy link: https://afternoon-savannah-16664.herokuapp.com/
+
 ![GitHub Logo](public/assets/images/burgerdemo.gif)
+
 
